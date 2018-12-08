@@ -50,7 +50,7 @@ class HashCero{
 	
 }//Clase
 
-public class PruebaMetodoBusqueda {
+public class PruebaMetodoBusquedaHash {
 
 	public static void main(String[] args) {
 		
